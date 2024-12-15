@@ -1,0 +1,2 @@
+Console.WriteLine($"Error : {ex.Message}\n");
+catch (WaitHandleCannotBeOpenedException)

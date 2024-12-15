@@ -1,0 +1,2 @@
+Semaphore semaphore = new Semaphore(initialCount: 1, maximumCount: 5, name: "MySemaphore");
+Console.WriteLine("Semaphore created successfully");

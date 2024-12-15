@@ -1,0 +1,2 @@
+System.err.println($"Error : {ex.Message}");
+catch (WaitHandleCannotBeOpenedException)
